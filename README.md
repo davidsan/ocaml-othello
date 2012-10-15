@@ -19,6 +19,10 @@ othello
   -help  Display this list of options
   --help  Display this list of options
 ```
+## More screenshots 
+![Screenshot](http://i.imgur.com/z4MgU.png)
+![Screenshot](http://i.imgur.com/90Pps.png)
+
 
 ## TODO
 
