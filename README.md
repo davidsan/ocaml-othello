@@ -3,7 +3,10 @@ OCaml Othello
 
 Othello game in OCaml (player versus IA using random)
 
+[Rules on Wikipedia](http://en.wikipedia.org/wiki/Reversi)
+
 ![Screenshot](http://i.imgur.com/wsT69.png)
+
 
 ## Installation
 ```
